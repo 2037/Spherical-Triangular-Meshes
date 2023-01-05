@@ -1,6 +1,6 @@
-# AMS 562 Final Project - Spherical-Triangular-Meshes #
+# Spherical-Triangular-Meshes #
 
-In this project as the final project in AMS 562(Scientific Programming in C++ in Stony Brook University), we implement geometric calculation on spherical
+As the final project in AMS 562(Scientific Programming in C++ in Stony Brook University), we implement geometric calculation on spherical
 triangle meshes.
 
 A mesh (unstructured) can be represented by a set of coordinates (geometric data)
