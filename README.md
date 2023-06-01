@@ -12,7 +12,7 @@ There're three algorithms that declared in `src/manip.hpp`:
  - Compute averaged outward unit normal vectors
  - Analyze the approximation errors
 
-More instructions are listed in final-proj.pdf.
+More scientific background are demostrated in [Final Project Description](https://github.com/2037/Spherical-Triangular-Meshes/blob/main/final-proj.pdf).
 
 # Manual to compile
 To compile
